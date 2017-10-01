@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Studio</string>
+    <string name="tudio">tudio</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot Your Password?</string>
+    <string name="click_here">Click Here</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="s">S</string>
+    <string name="log_in">LOG IN</string>
+    <string name="create_your_own">Create your own</string>
+    <string name="now">now</string>
+</resources>
