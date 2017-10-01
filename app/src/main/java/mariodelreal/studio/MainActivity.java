@@ -16,6 +16,7 @@ import org.w3c.dom.Text;
 
 public class MainActivity extends /*AppCompatActivity*/ActivityChangeHandler
 {
+    //Adding comment to MainActivity
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
